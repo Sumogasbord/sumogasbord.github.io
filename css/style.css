@@ -12,15 +12,21 @@ p {
 
 @media only screen and (max-width: 979px) {
   body {
-    width: 100%;
+    width: 90%;
     margin: 25px;
   }
 }
 
 @media only screen and (min-width: 321px) and (max-width: 768px) {
-
+  body {
+    width: 100%;
+    margin: 25px;
+  }
 }
 
 @media only screen and (max-width: 320px) {
-
+  body {
+    width: 100%;
+    margin: 25px;
+  }
 }
