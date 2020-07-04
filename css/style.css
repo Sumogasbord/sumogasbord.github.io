@@ -11,7 +11,7 @@ p {
 }
 
 @media only screen and (max-width: 979px) {
-  html {
+  body {
     width: 100%;
     margin: 25px;
   }
