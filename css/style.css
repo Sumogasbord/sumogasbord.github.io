@@ -10,7 +10,7 @@ p {
   font-style: normal;
 }
 
-@media only screen and (max-width: 979px) {
+@media only screen and (min-width: 769px) {
   body {
     width: 90%;
     margin: 25px;
