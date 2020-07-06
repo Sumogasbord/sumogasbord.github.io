@@ -1,7 +1,7 @@
 body {
   font-family: "sofia-pro", "source-han-sans-japanese", sans-serif;
   font-style: normal;
-  background: url(../img/bgp.jpg);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.75) 100%), url(../img/bgp.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -36,7 +36,6 @@ body {
     height: auto;
     padding: 10px 30px;
     margin: 30vh auto 10vh auto;
-    background: rgba(0,0,0,0.5);
   }
 
   nav	{
@@ -96,7 +95,6 @@ body {
     height: auto;
     padding: 5px 15px;
     margin: 25vh auto 10vh auto;
-    background: rgba(0,0,0,0.5);
   }
 
   nav	{
