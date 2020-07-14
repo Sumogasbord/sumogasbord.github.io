@@ -145,13 +145,14 @@ body {
 
   .index {
     height: 100vh;
+    overflow: hidden;
   }
 
-  .index-contents {
+  .index-menu {
     width: 100vw;
     height: auto;
-    padding: 5px 15px;
-    margin: 25vh auto 10vh auto;
+    padding: 10px 0px;
+    margin: 35vh auto 0vh auto;
   }
 
   .main-contents {
