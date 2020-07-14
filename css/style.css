@@ -23,7 +23,7 @@ body {
   }
 
   img, iframe {
-    border-radius: 7.5px;
+    border-radius: 10px;
     max-height: 350px;
   }
 
