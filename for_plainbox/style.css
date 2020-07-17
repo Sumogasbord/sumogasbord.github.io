@@ -1,5 +1,5 @@
 body {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: "sofia-pro", "source-han-sans-japanese", sans-serif;
 font-weight: 300;
 font-style: normal;
 -webkit-font-smoothing: antialiased;
@@ -7,7 +7,7 @@ font-style: normal;
 }
 
 h1,h2,h3,h4,h5 {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: "sofia-pro", "source-han-sans-japanese", sans-serif;
 font-weight: 600;
 font-style: normal;
 }
@@ -27,13 +27,13 @@ background: linear-gradient(transparent 65%, #ffee80 30%);
 }
 
 blockquote p {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: "sofia-pro", "source-han-sans-japanese", sans-serif;
 font-weight: 600;
 font-style: normal;
 }
 
 blockquote cite {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: "sofia-pro", "source-han-sans-japanese", sans-serif;
 font-weight: 400;
 font-style: normal;
 }
