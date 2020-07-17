@@ -1,0 +1,47 @@
+body {
+font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-weight: 300;
+}
+
+h1,h2,h3,h4,h5 {
+font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-weight: 600;
+}
+
+h1{
+margin: 2.5em 0;
+}
+
+h2,h3,h4,h5 {
+margin: 0.75em 0;
+}
+
+.entry-content strong {
+font-weight: 600;
+font-style: normal;
+background: linear-gradient(transparent 65%, #ffee80 30%);
+}
+
+blockquote p {
+font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-weight: 600;
+font-style: normal;
+}
+
+blockquote cite {
+font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+img, iframe {
+border-radius: 7.5px;
+}
+
+.entry-content img {
+-webkit-filter: saturate(75%);
+-moz-filter: saturate(75%);
+-ms-filter: saturate(75%);
+-o-filter: saturate(75%);
+filter: saturate(75%);
+}
