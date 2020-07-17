@@ -25,7 +25,7 @@ background: linear-gradient(transparent 65%, #ffee80 30%);
 }
 
 img, iframe {
-border-radius: 7.5px;
+border-radius: 10px;
 }
 
 .entry-content img {
