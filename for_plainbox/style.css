@@ -1,5 +1,5 @@
 body {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: sofia-pro, source-han-sans-japanese;
 font-weight: 400;
 font-style: normal;
 -webkit-font-smoothing: antialiased;
@@ -7,14 +7,14 @@ font-style: normal;
 }
 
 h1,h2,h3,h4,h5,blockquote p {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: sofia-pro, source-han-sans-japanese;
 font-weight: 600;
 font-style: normal;
 color: #00f;
 }
 
 blockquote cite {
-font-family: sofia-pro, source-han-sans-japanese, sans-serif;
+font-family: sofia-pro, source-han-sans-japanese;
 font-weight: 400;
 font-style: normal;
 }
