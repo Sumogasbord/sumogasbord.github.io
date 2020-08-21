@@ -35,3 +35,19 @@ border-radius: 10px;
 -o-filter: saturate(75%);
 filter: saturate(75%);
 }
+
+.post-page-numbers {
+  font-weight: bold;
+  padding: 2.5px 7.5px;
+  text-decoration: none;
+  border: 1.5px #333 solid;
+  border-radius: 5px;
+  box-shadow: 0 2.5px #333;
+}
+
+.post-page-numbers.current {
+  background: #333;
+  color: #fff;
+  border: 1.5px #333 solid;
+  box-shadow: 0 2.5px #000;
+}
