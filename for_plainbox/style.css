@@ -36,6 +36,11 @@ border-radius: 10px;
 filter: saturate(75%);
 }
 
+::selection {
+    background: #333;
+    color: #fff;
+}
+
 .post-page-numbers {
   font-weight: bold;
   padding: 2.5px 7.5px;
